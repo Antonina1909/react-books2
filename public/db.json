@@ -1,0 +1,58 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "author": "Агата Кристи",
+            "name": "10 негритят",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/27/359/2735904.jpg"
+        },
+        {
+            "id": 2,
+            "author": "Пушкин А.С.",
+            "name": "Капитанская дочка",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/24/957/2495747.jpg"
+        },
+        {
+            "id": 3,
+            "author": "Дышлевая И.",
+            "name": "Испанский язык.",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/22/369/2236973.jpg"
+        },
+        {
+            "id": 4,
+            "author": "Жюль Верн",
+            "name": "Пятнадцатилетний капитан",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/24/544/2454455.jpg"
+        },
+        {
+            "id": 5,
+            "author": "Оливер Пётч",
+            "name": "Дочь палача",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/25/257/2525725.jpg"
+        },
+        {
+            "id": 6,
+            "author": "Лермонтов М.Ю.",
+            "name": "Мцыри",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/26/406/2640622.jpg"
+        },
+        {
+            "id": 7,
+            "author": "Бажов П.П.",
+            "name": "Малахитовая шкатулка",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/28/176/2817696.jpg"
+        },
+        {
+            "id": 8,
+            "author": "Дэн Браун",
+            "name": "Инферно",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/28/215/2821598.jpg"
+        },
+        {
+            "id": 9,
+            "author": "Дуглас Адамс",
+            "name": "Автостопом по галактике",
+            "avatar": "https://cdn.img-gorod.ru/200x280/nomenclature/22/625/2262514.jpg"
+        }
+    ]   
+}
